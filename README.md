@@ -130,7 +130,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/841246d8-a305-4c02-b04a-e02cc0faa140" />
-<img width="1336" height="1031" alt="Screenshot 2026-10-24 132958" src="https://github.com/user-attachments/assets/6562d916-9403-462e-80c7-fbfe27d93f81" />
+<img width="1302" height="1045" alt="Screenshot 2026-10-24 133013" src="https://github.com/user-attachments/assets/7a6bab69-502d-436f-b733-494a8ebeebe7" />
+
 
 
 
